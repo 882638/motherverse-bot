@@ -1,2 +1,2 @@
-# motherverse-bot
-bot for LBank via Telegram Whale alert
+requests
+python-telegram-bot
